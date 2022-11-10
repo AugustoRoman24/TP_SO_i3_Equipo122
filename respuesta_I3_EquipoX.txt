@@ -9,3 +9,15 @@ C-Git branch (para estar seguros en la rama que nos encontrabamos)
   Git checkout main (para cambiar a la rama main)
   Git merge Roman -m "test" (Para unificar las ramas)
   Git push 
+
+
+Responde ALFA:
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+G- Git clone -b Augusto https://github.com/AugustoRoman24/TP_SO_i3_Equipo122.git
+   IpConfig
+   Git branch
+   Git add .
+   Git status
+   Git Commit -m "Subiendo alfa"
+   Git push
