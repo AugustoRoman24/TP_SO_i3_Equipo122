@@ -1,0 +1,11 @@
+Responde BETA (Augusto Roman):
+a-¿Como queda El master después de estos cambios?
+b-¿Beta pudo ver todos los cambios que se realizaron?
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+
+A-El main quedo unificado con todas las demas ramas
+B-Si, beta vio todos los cambios realizados
+C-Git branch (para estar seguros en la rama que nos encontrabamos)
+  Git checkout main (para cambiar a la rama main)
+  Git merge Roman -m "test" (Para unificar las ramas)
+  Git push 
