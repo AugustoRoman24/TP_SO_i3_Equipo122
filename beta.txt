@@ -16,3 +16,46 @@ Adaptador de Ethernet Ethernet:
    Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.167
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Nombre: Ignacio
+Apellido: Guzman
+Hora: 20:03
+Adaptador de Ethernet Radmin VPN:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : fdfd::1a46:221f
+   Vínculo: dirección IPv6 local. . . : fe80::e553:baf4:1fde:60c1%19
+   Dirección IPv4. . . . . . . . . . . . . . : 26.70.34.31
+   Máscara de subred . . . . . . . . . . . . : 255.0.0.0
+   Puerta de enlace predeterminada . . . . . : 26.0.0.1
+
+Adaptador de Ethernet vEthernet (Default Switch):
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::6170:fb33:dfd9:b5f8%31
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.96.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::89c7:f6d:4007:e65f%4
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Vínculo: dirección IPv6 local. . . : fe80::100a:8f43:8bc7:2af3%16
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.192
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de túnel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2001:0:2877:7aa:823:3f2e:413c:5ab5
+   Vínculo: dirección IPv6 local. . . : fe80::823:3f2e:413c:5ab5%14
+   Puerta de enlace predeterminada . . . . . :
